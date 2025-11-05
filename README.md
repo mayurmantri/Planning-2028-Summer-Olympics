@@ -8,6 +8,9 @@ Using historical Olympic datasets, the project answers key business questions re
 
 A Tableau dashboard was designed to visually communicate the insights, supported by statistical modelling and data preparation completed in Python.
 
+## 📊 Interactive Dashboard
+✅ [Click here to view the interactive Tableau dashboard]([https://public.tableau.com/views/your_dashboard_link](https://public.tableau.com/views/Olympics_Data_Analysis_17615937750060/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
 ---
 
 ## ✅ Business Problems & Analytical Solutions
