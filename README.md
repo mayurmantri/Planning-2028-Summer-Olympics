@@ -96,5 +96,5 @@ The solution is scalable, data-driven, and adaptable for more complex scenarios 
 
 ## 👤 Author
 **Mayur Mantri**  
-Data Analyst | Visual Storyteller | Python & Tableau Practitioner
+Data Analyst | Visual Storyteller 
 
